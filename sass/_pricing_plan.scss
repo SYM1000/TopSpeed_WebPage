@@ -1,0 +1,106 @@
+/************use_sasu css start***************/
+.pricing_part{
+    @media #{$small_mobile}{
+       margin-bottom: 55px;
+       
+    }
+    @media #{$large_mobile}{
+        margin-bottom: 40px;
+    }
+    @media #{$tab_device}{
+        margin-bottom: 40px;
+    }
+    position: relative;
+    z-index: 1;
+    position: relative;
+    z-index: 99;
+    .left_shape_1{
+        position: absolute;
+        left: 0;
+        top: -50%;
+        z-index: -1;
+        max-width: 13%;
+      }
+      .feature_icon_1{
+        position: absolute;
+        right: 0;
+        bottom: 15%;
+        z-index: -1;
+      }
+      
+      .feature_icon_4{
+        position: absolute;
+        left: 3%;
+        z-index: -1;
+        bottom: 50%;
+      }
+    .single_pricing_part{
+        text-align: center;
+        padding: 60px 40px;
+        box-shadow: 0px 3px 81px 0px rgba(216, 216, 216, 0.45);
+        @media #{$small_mobile}{
+            padding: 40px 30px;
+            margin-bottom: 15px;
+        }
+        @media #{$large_mobile}{
+            padding: 40px 30px;
+            margin-bottom: 30px;
+        }
+        @media #{$tab_device}{
+            padding: 40px 30px;
+            margin-bottom: 30px;
+        }
+        @media #{$medium_device}{
+        padding: 40px;
+        }
+        img{
+            margin-bottom: 18px;
+            height: 65px;
+        }
+        p{
+            color: $btn_bg;
+            font-size: 16px;
+            text-transform: capitalize;
+        }
+        h3{
+            font-size: 27px;
+            font-weight: 600;
+            span{
+                font-size: 16px;
+                color: #919191;
+                font-weight: 400;
+            }
+        }
+        .btn_1{
+            padding: 18.5px 38px;
+            @media #{$tab}{
+                padding: 10px 30px;
+            }
+            @media #{$medium_device}{
+                padding: 10px 12px;
+            }
+        }
+        ul{
+            border-top: 1px solid #eee;
+            margin: 16px 0 55px;
+            padding-top: 12px;
+            @media #{$tab}{
+                margin: 16px 0;
+            }
+            @media #{$medium_device}{
+                margin: 20px 0;
+            }
+            li{
+                font-size: 14px;
+                color: #7f7f7f;
+                text-transform: capitalize;
+                margin: 10px 0;
+            }
+        }
+    }
+}
+.single_page_pricing{
+    .left_shape_1{
+        display: none;
+      }
+}
