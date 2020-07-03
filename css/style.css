@@ -2256,7 +2256,7 @@ ul {
   transform: scale(1, 0);
   display: block;
   border: 0px solid transparent;
-  background-color: #0ab6ff;
+  background-color: #07f2aa;
 }
 
 /* line 164, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
@@ -2264,7 +2264,7 @@ ul {
   font-size: 14px;
   padding: 8px 20px !important;
   color: #fff !important;
-  background-color: #0ab6ff;
+  background-color: #07f2aa;
   text-transform: capitalize;
 }
 
@@ -2317,11 +2317,11 @@ ul {
   .dropdown:hover .dropdown-menu {
     transform: scale(1);
     display: block;
-    color: #0ab6ff;
+    color: #07f2aa;
   }
   /* line 231, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
   .dropdown .dropdown-item:hover {
-    color: #0ab6ff !important;
+    color: #07f2aa !important;
   }
   /* line 236, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
   .navbar-brand img {
@@ -3526,7 +3526,7 @@ ul {
 
 /* line 70, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a:hover {
-  color: #0ab6ff !important;
+  color: #07f2aa !important;
 }
 
 /* line 77, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
@@ -3577,7 +3577,7 @@ ul {
   color: #fff;
   border-radius: 50px;
   line-height: 10px;
-  border: 2px solid #0ab6ff;
+  border: 2px solid #07f2aa;
 }
 
 /* line 127, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
@@ -3642,7 +3642,7 @@ ul {
 
 /* line 183, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
 .footer_part .copyright_text span {
-  color: #0ab6ff;
+  color: #07f2aa;
   font-size: 12px;
 }
 
@@ -3655,7 +3655,7 @@ ul {
 
 /* line 195, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
 .footer_part .copyright_text p a {
-  color: #0ab6ff;
+  color: #07f2aa;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -5729,7 +5729,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 70, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a:hover {
-  color: #0ab6ff !important;
+  color: #07f2aa !important;
 }
 
 /* line 77, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
