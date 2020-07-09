@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:800|Poppins:300,400,500,600,700,800|Roboto:300,400,500");
 /* line 2, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_extends.scss */
 .btn_1, .btn_2:hover, .form-contact .form-group .btn_1 i {
-  background-image: linear-gradient(to left, #00b4ff 0%, #57ddff 51%, #00b4ff 100%);
+  background-image: linear-gradient(to left, #07f2aa 0%, #07f2aa 51%, #00b4ff 100%);
 }
 
 /* line 5, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_extends.scss */
@@ -2240,12 +2240,12 @@ ul {
   width: 100%;
   box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.05);
   top: 0;
-  background-color: #0ab6ff;
+  background-color: #05df9e;
 }
 
 /* line 149, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
 .menu_fixed .active_color {
-  color: #0ab6ff !important;
+  color: #07f2aa !important;
 }
 
 /* line 155, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
@@ -2393,7 +2393,7 @@ ul {
 
 /* line 307, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
 .single_page_menu .main-menu-item ul li .nav-link:hover {
-  color: #0ab6ff !important;
+  color: #07f2aa !important;
 }
 
 /**************** banner part css start ****************/
@@ -3430,7 +3430,9 @@ ul {
 /**********************footer part css*******************/
 /* line 2, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
 .footer_part {
+  /* background-image: url("../img/footer_bg.png"); */
   background-image: url("../img/footer_bg.png");
+    /* filter: blur(10px); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5633,7 +5635,9 @@ h1, h2, h3, h4, h5, h6 {
 /**********************footer part css*******************/
 /* line 2, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
 .footer_part {
-  background-image: url("../img/footer_bg.png");
+  /* background-image: url("../img/1497.jpg"); */
+  /* background-image: url("../img/TopSpeedBanner.gif"); */
+  /* filter: blur(10px); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
